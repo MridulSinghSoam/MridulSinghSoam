@@ -10,10 +10,10 @@ Code Alchemist | UI/UX Wizard | Hackathon Warrior
 
 
 ## 🛠️ Skills
-Languages: Python 🐍, JavaScript ⚡, TypeScript 🧙‍♂️, C++ 💥
+Languages: Python , JavaScript , TypeScript , C++ 
 Blockchain: Basics of Smart Contracts & Ethereum – because the future is decentralized. 🔗
-Front-end: HTML 🎨, CSS ✨, JavaScript 🖱️, React.js ⚛️
-Design Tools: Figma 🎭, Adobe XD 🎨, Adobe Photoshop 🖌️
+Front-end: HTML , CSS , JavaScript , React.js 
+Design Tools: Figma , Adobe XD , Adobe Photoshop 
 
 ## 🌱 Currently Learning
 🚧 Currently built epic **portfolio websites** and mastering **DSA in C++** like a ninja.
