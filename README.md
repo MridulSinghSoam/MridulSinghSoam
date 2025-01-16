@@ -1,4 +1,4 @@
-#👋 HELLO WORLD , I’m Mridul Sing Soam! 🌟🚀
+# 👋 HELLO WORLD , I’m Mridul Sing Soam! 🌟🚀
 
  ##📫 How to reach me https://mridulsinghsoam.netlify.app
 
