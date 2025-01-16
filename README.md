@@ -1,4 +1,4 @@
-#👋 HELLO WORLD , I’m Mridul Sing Soam! 🌟🚀
+#
 
  ##📫 How to reach me https://mridulsinghsoam.netlify.app
 
@@ -28,7 +28,38 @@ portfolio : https://mridulsinghsoam.netlify.app
 🕴️ LinkedIn: https://www.linkedin.com/in/mridul-singh-soam-b14992308/
 📧 Email: mridulssoam@gmail.com
 ⚡ Fun Fact
-I’m a certified adrenaline of speed skating, and dreaming of coding in the clouds! 🌍😍
+ adrenaline of speed skating, and dreaming of coding in the clouds! 🌍😍
+
+
+
+
+
+
+
+# 👋 Hi, I'm Saksham Katiyar!
+
+## 🚀 About Me
+- 🎓 Second-year BTech student specializing in **CSE with AI** at GL Bajaj Institute of Technology and Management.
+- 💻 Passionate about **Full-Stack Development, AI, Web-Designing , UI UX Designing and graphic designing**.
+- 🏆 Hackathon enthusiast: Recently participated in Hackspire with my team.
+
+## 🛠️ Skills
+- **Languages:** C++, Python, JavaScript
+- **Front-end:** HTML, CSS, JavaScript, React.js
+- **AI/ML:** Basics of AI with Python (future plans to explore more)
+- **Tools:** Figma, Adobe XD, Adobe Photoshop
+
+## 🌱 Currently Learning
+- Building **portfolio websites** and mastering **DSA in C++**.
+- Exploring **AI-powered projects** and improving my skills in **front-end development**.
+
+## 📫 How to Reach Me
+- **LinkedIn:** [linkedin.com/in/sakshamkatiyar](https://www.linkedin.com/in/saksham-katiyar-5b8b432a4/)
+- **Email:** [katiyar.saksham2004@gamil.com](mailto:katiyar.saksham2004@gamil.com)
+
+## ⚡ Fun Fact
+I love **paragliding** and **bungee jumping!😍**🌍
+
 
 <!---
 MridulSinghSoam/MridulSinghSoam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
