@@ -4,7 +4,7 @@
 💻
 Code Alchemist | UI/UX Wizard | Hackathon Warrior
 ## 🚀 About Me
-🎓 Second-year B.Tech Explorer in CSE at GL Bajaj Institute of Technology and Management. On a mission to mix code, creativity, and caffeine into mind-blowing innovations! 💡☕
+🎓 Final year B.Tech Explorer in CSE at GL Bajaj Institute of Technology and Management. On a mission to mix code, creativity, and caffeine into mind-blowing innovations! 💡☕
 🔥 A burning passion for Full-Stack Development, Blockchain Sorcery, Web Designing, and UI/UX Designing.
 🏆 Hackathon Enthusiast: Recently shook things up at Hackspire with my team.
 
